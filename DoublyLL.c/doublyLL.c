@@ -154,7 +154,7 @@ int main()
             break;
 
         case 5:
-            delFromEnd();
+            delFromEnd( );
             break;
 
         case 6:
